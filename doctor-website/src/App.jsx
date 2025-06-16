@@ -2,7 +2,7 @@ import HeroSection from "./components/HeroSection";
 import AppointmentForm from "./components/AppointmentForm";
 import BlogSection from "./components/BlogSection";
 import ContactSection from "./components/ContactSection";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 function App() {
   return (
     <>
